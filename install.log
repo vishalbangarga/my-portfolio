@@ -1,0 +1,40 @@
+﻿node.exe : npm warn 
+deprecated 
+three-mesh-bvh@0.7.8: 
+Deprecated due to 
+three.js version 
+incompatibility. 
+Please use v0.8.0, 
+instead.
+At line:1 char:1
++ & "C:\Program Files\
+nodejs/node.exe" 
+"C:\Program 
+Files\nodejs/node_mo 
+...
++ ~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
+~~~~~
+    + CategoryInfo    
+          : NotSpeci  
+  fied: (npm warn d   
+ eprec...0.8.0, in    
+stead.:String) []    
+, RemoteException
+    + FullyQualifiedE 
+   rrorId : NativeCo  
+  mmandError
+ 
+
+added 259 packages, and audited 260 packages in 19s
+
+49 packages are looking for funding
+  run `npm fund` for details
+
+2 moderate severity vulnerabilities
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
